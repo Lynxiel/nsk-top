@@ -1,0 +1,183 @@
+2014/11/14 21:58:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "companies/index".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('companies/index')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=companies/index
+---
+2014/11/14 21:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "companies/index".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('companies/index')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=companies/index
+---
+2014/11/14 22:05:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "comments".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('comments')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=comments
+---
+2014/11/14 22:10:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "comments/index/index".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('comments/index/...')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=comments/index/index
+HTTP_REFERER=http://nsk-top/index.php
+---
+2014/11/14 22:10:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "comments/index/".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('comments/index/')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=comments/index/
+---
+2014/11/14 22:19:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Comments/comments".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('Comments/commen...')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=Comments/comments
+---
+2014/11/14 22:19:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "comments/index/index".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('comments/index/...')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=comments/index/index
+HTTP_REFERER=http://nsk-top/index.php?r=Comments/comments
+---
+2014/11/14 22:20:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "comments/comment/index".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('comments/commen...')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=comments/comment/index
+---
+2014/11/14 22:20:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "comment/index".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('comment/index')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=comment/index
+---
+2014/11/14 22:20:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "comments/index/index".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('comments/index/...')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=comments/index/index
+HTTP_REFERER=http://nsk-top/index.php?r=comment/index
+---
+2014/11/14 22:21:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "attachments/attachment/index".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('attachments/att...')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=attachments/attachment/index
+---
+2014/11/14 22:21:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "attachments/attachment/".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('attachments/att...')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=attachments/attachment/
+---
+2014/11/14 22:21:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "attachments/attachment".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('attachments/att...')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=attachments/attachment
+---
+2014/11/14 22:22:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "иlocks/block".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('??locks/block')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=%D0%B8locks/block
+---
+2014/11/14 22:22:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "blocks/block".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('blocks/block')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=blocks/block
+---
+2014/11/14 22:26:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "comments/index/index".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('comments/index/...')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=comments/index/index
+HTTP_REFERER=http://nsk-top/index.php
+---
+2014/11/14 22:27:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "comments/index/index".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('comments/index/...')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=comments/index/index
+HTTP_REFERER=http://nsk-top/index.php
+---
+2014/11/14 22:30:10 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`nsk_top`.`companies`, CONSTRAINT `companies_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE). The SQL statement executed was: INSERT INTO `companies` (`user_id`, `title`) VALUES (:yp0, :yp1).
+in D:\open\OpenServer\domains\nsk-top\protected\modules\Companies\controllers\CompanyController.php (73)
+in D:\open\OpenServer\domains\nsk-top\index.php (13)
+2014/11/14 22:30:10 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`nsk_top`.`companies`, CONSTRAINT `companies_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE). The SQL statement executed was: INSERT INTO `companies` (`user_id`, `title`) VALUES (:yp0, :yp1)' in D:\open\OpenServer\domains\training-project\yii-framework\framework\db\CDbCommand.php:358
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 D:\open\OpenServer\domains\nsk-top\protected\modules\Companies\controllers\CompanyController.php(73): CActiveRecord->save()
+#3 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\actions\CInlineAction.php(49): CompanyController->actionCreate()
+#4 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(282): CController->run('create')
+#13 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('Companies/compa...')
+#14 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=Companies/company/create
+HTTP_REFERER=http://nsk-top/index.php?r=Companies/company/create
+---
+2014/11/14 23:04:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Users/user".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('Users/user')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=Users/user
+HTTP_REFERER=http://nsk-top/index.php?r=Humans/human
+---
+2014/11/15 00:51:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "bootstrap/gii".' in D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\open\OpenServer\domains\training-project\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('bootstrap/gii')
+#1 D:\open\OpenServer\domains\training-project\yii-framework\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\open\OpenServer\domains\nsk-top\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=bootstrap/gii
+---
